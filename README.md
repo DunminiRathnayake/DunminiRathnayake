@@ -28,12 +28,6 @@ I am an Information Technology undergraduate specializing in modern web ecosyste
 
 ---
 
-## 🏢 Business Ventures
-
-- Co-Founder at PixBee Labs – Leading digital transformation and web development.
-
----
-
 ## 📫 Connect with Me
 - LinkedIn: (add your link)
 - Email: (add your email)
