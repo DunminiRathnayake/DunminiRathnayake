@@ -29,5 +29,6 @@ I am an Information Technology undergraduate specializing in modern web ecosyste
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: (add your link)
-- Email: (add your email)
+- LinkedIn: www.linkedin.com/in/dunmini-rathnayake-81515838a
+
+- Email: dunarathnayake@gmail.com
